@@ -93,7 +93,7 @@ local Themes = {
 	},
 	Darker = {
 		Name = "Darker",
-		Accent = Color3.fromRGB(56, 109, 223),
+		Accent = Color3.fromRGB(227, 227, 227),
 		AcrylicMain = Color3.fromRGB(30, 30, 30),
 		AcrylicBorder = Color3.fromRGB(60, 60, 60),
 		AcrylicGradient = ColorSequence.new(Color3.fromRGB(17, 17, 17), Color3.fromRGB(18, 18, 18)),
